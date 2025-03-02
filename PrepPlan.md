@@ -274,7 +274,7 @@ class Program
 3. Implement a queue-based ticketing system.
 4. Compare and contrast a Stack and a Queue.
 
-## Stack `LIFO` => Last In, First Out
+### Stack `LIFO` => Last In, First Out
 ```C#
 class Program
 {
@@ -290,7 +290,7 @@ class Program
 }
 ```
 
-## Queue `FIFO` => First In, First Out
+### Queue `FIFO` => First In, First Out
 ```C#
 class Program
 {
